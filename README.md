@@ -42,7 +42,7 @@ ensure mg-gangwarehouserobbery
 * [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
 
 ## Preview 
-[mg-boats](https://veed.io/comingsoon) 
+[mg-boats]**coming soon**
 
 ##
 <img src="https://github.com/WJR1986/FiveM-Image-Pack/blob/main/professor.png" width="100" height="100"/>
