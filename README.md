@@ -31,7 +31,7 @@ jar_whitewidow               = { name = 'jar_whitewidow', label = 'Jar of White 
 
 4) Add the following code to your server.cfg/resouces.cfg file:
 ```
-ensure mg-gangwarehouserobbery
+ensure mg-drugrobbery
 ```
 
 ## Dependencies
