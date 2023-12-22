@@ -48,7 +48,8 @@ ensure mg-gangwarehouserobbery
 <img src="https://github.com/WJR1986/FiveM-Image-Pack/blob/main/professor.png" width="100" height="100"/>
 Mr Games (Will)
 
-## This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+## 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
