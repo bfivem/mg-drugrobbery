@@ -34,10 +34,6 @@ jar_whitewidow               = { name = 'jar_whitewidow', label = 'Jar of White 
 ensure mg-gangwarehouserobbery
 ```
 
-## Config
-![mg](https://i.imgur.com/comingsoon)
-
-
 ## Dependencies
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
